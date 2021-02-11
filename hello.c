@@ -7,4 +7,5 @@ int main()
     printf("something addid");
     printf("branch added");
     printf("Now push dev");
+    printf("check dev");
 }
