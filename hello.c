@@ -6,4 +6,6 @@ int main()
     printf("%d\n",i%2);
     printf("something addid");
     printf("branch added");
+    printf("Now push dev");
+    printf("check dev");
 }
